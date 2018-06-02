@@ -42,10 +42,14 @@ In the future, I may add some commentary on the papers to help anyone who is int
 * [Using Causal Forests to Predict Treatment Heterogeneity: An Application to Summer Jobs](http://pubs.aeaweb.org/doi/10.1257/aer.p20171000) [Davis and Heller 2017]
 * [Tree-Based Estimation of Heterogeneous Dynamic Policy Effects](https://www.ssrn.com/abstract=3049044) [Miller 2017]
 * [Rethinking the Beneﬁts of Youth Employment Programs: The Heterogeneous E ects of Summer Jobs](http://www.nber.org/papers/w23443) [Davis and Heller 2017]
+
 ## Propensity scores
+
 ## Interrupted time series analysis
+
 ## Double-robustness
 * [Data-adaptive doubly robust instrumental variable methods for treatment eﬀect heterogeneity](https://arxiv.org/abs/1802.02821) [DiazOrdaz et al 2018]
+
 ## Directed acyclic graphs
 * [Theoretical Impediments to Machine Learning With Seven Sparks from the Causal Revolution](http://ftp.cs.ucla.edu/pub/stat_ser/r475.pdf) [Pearl 2018]
 * [The Seven Pillars of Causal Reasoning with Reflections on Machine Learning](http://ftp.cs.ucla.edu/pub/stat_ser/r481.pdf) [Pearl 2018]
