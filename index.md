@@ -16,7 +16,7 @@ In the future, I may add some commentary on the papers to help anyone who is int
 * [Estimating treatment effect heterogeneity in randomized program evaluation](https://imai.princeton.edu/research/files/svm.pdf) [Imai and Ratkovic 2013]
 
 ### Tree based methods
-* [Some methods for heterogeneous treatment effect estimation in high dimensions: Some methods for heterogeneous treatment effect estimation in high dimensions](http://doi.wiley.com/10.1002/sim.7623) [Powers et al 2017]
+* [Some methods for heterogeneous treatment effect estimation in high dimensions](http://doi.wiley.com/10.1002/sim.7623) [Powers et al 2017]
 * [Recursive Partitioning for Heterogeneous Causal Eﬀects](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4941430/) [Athey and Imbens 2016]
 * [Generalized Random Forests](https://arxiv.org/abs/1610.01271) [Athey et al 2017]
 * [Estimation and Inference of Heterogeneous Treatment Effects using Random Forests](https://arxiv.org/abs/1510.04342) [Wager and Athey 2017]
