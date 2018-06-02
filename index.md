@@ -21,7 +21,7 @@ In the future, I may add some commentary on the papers to help anyone who is int
 * [Generalized Random Forests](https://arxiv.org/abs/1610.01271) [Athey et al 2017]
 * [Estimation and Inference of Heterogeneous Treatment Effects using Random Forests](https://arxiv.org/abs/1510.04342) [Wager and Athey 2017]
 * [Estimating Individual Treatment Effect in Observational Data Using Random Forest Methods](https://arxiv.org/abs/1701.05306) [Lu et al 2017]
-[Estimating Heterogeneous Treatment Effects and the Effects of Heterogeneous Treatments with Ensemble Methods](https://www.cambridge.org/core/product/identifier/S1047198717000158/type/journal_article) [Grimmer et al 2017]
+* [Estimating Heterogeneous Treatment Effects and the Effects of Heterogeneous Treatments with Ensemble Methods](https://www.cambridge.org/core/product/identifier/S1047198717000158/type/journal_article) [Grimmer et al 2017]
 
 ### Bayesian methods
 * [Uncovering Heterogeneous Treatment Eﬀects](http://www.princeton.edu/~shiraito/research/dp4hetero.pdf) [Shiraito 2016]
@@ -41,7 +41,7 @@ In the future, I may add some commentary on the papers to help anyone who is int
 ### Applied
 * [Using Causal Forests to Predict Treatment Heterogeneity: An Application to Summer Jobs](http://pubs.aeaweb.org/doi/10.1257/aer.p20171000) [Davis and Heller 2017]
 * [Tree-Based Estimation of Heterogeneous Dynamic Policy Effects](https://www.ssrn.com/abstract=3049044) [Miller 2017]
-* [Rethinking the Beneﬁts of Youth Employment Programs: The Heterogeneous E ects of Summer Jobs](http://www.nber.org/papers/w23443) [Davis and Heller 2017]
+* [Rethinking the Beneﬁts of Youth Employment Programs: The Heterogeneous Effects of Summer Jobs](http://www.nber.org/papers/w23443) [Davis and Heller 2017]
 
 ## Propensity scores
 
