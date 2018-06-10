@@ -39,11 +39,17 @@ In the future, I may add some commentary on the papers to help anyone who is int
 * [Causal nearest neighbor rules for optimal treatment regimes](https://arxiv.org/abs/1711.08451) [Zhou and Kosorok 2017]
 
 ### Applied
+
+#### Policy interventions
 * [Using Causal Forests to Predict Treatment Heterogeneity: An Application to Summer Jobs](http://pubs.aeaweb.org/doi/10.1257/aer.p20171000) [Davis and Heller 2017]
 * [Tree-Based Estimation of Heterogeneous Dynamic Policy Effects](https://www.ssrn.com/abstract=3049044) [Miller 2017]
 * [Rethinking the Beneﬁts of Youth Employment Programs: The Heterogeneous Effects of Summer Jobs](http://www.nber.org/papers/w23443) [Davis and Heller 2017]
 
+#### Advertisement
+* [Incrementality Bidding & Attribution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3129350) [Lewis and Wong 2018]
+
 ## Propensity scores
+* [A Comparison of Approaches to Advertising Measurement: Evidence from Big Field Experiments at Facebook](https://www.kellogg.northwestern.edu/faculty/gordon_b/files/fb_comparison.pdf) [Gordon et al 2018]
 
 ## Interrupted time series analysis
 
