@@ -53,6 +53,9 @@ In the future, I may add some commentary on the papers to help anyone who is int
 
 ## Interrupted time series analysis
 
+## Regression discontinuity design
+* [Automated Local Regression Discontinuity Design Discovery](http://delivery.acm.org/10.1145/3220000/3219982/p1512-herlands.pdf) [Herlands et al 2018]
+
 ## Double-robustness
 * [Data-adaptive doubly robust instrumental variable methods for treatment eﬀect heterogeneity](https://arxiv.org/abs/1802.02821) [DiazOrdaz et al 2018]
 
